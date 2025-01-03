@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class tenbyul {
+public class randombyul {
     public static void main(String[] args) {
         int num = 0;
         System.out.print("입력하고 싶은 라인의 수를 입력하세요.> ");
